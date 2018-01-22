@@ -150,5 +150,10 @@
             </plugin>
         </plugins>
     </build>
-
+	<developers>
+		<developer>
+			<name>Vilmar Prado do Nascimento</name>
+			<email>vilmarprado67@gmail.com</email>
+		</developer>
+	</developers>
 </project>
