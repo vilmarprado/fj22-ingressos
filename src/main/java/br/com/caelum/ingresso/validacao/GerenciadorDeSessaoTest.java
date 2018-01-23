@@ -12,7 +12,8 @@ import br.com.caelum.ingresso.controller.GerenciadorDeSessao;
 import br.com.caelum.ingresso.model.Filme;
 import br.com.caelum.ingresso.model.Sala;
 import br.com.caelum.ingresso.model.Sessao;
-import junit.framework.Assert;
+
+import org.junit.Assert;
 
 public class GerenciadorDeSessaoTest	{
 	private	Filme	rogueOne;
